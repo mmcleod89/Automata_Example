@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(vector_functionality_exercises
+project(automata_exercise
   VERSION 0.0.1
   LANGUAGES CXX
 )
